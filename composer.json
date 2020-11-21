@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think-swoole",
+    "name": "yiqiniu/think-swoole",
     "description": "Swoole extend for thinkphp",
     "license": "Apache-2.0",
     "authors": [
@@ -12,7 +12,7 @@
         "php": ">7.1",
         "ext-swoole": ">=4.4.8",
         "ext-json": "*",
-        "topthink/framework": "^6.0",
+        "yiqiniu/framework": "^6.0.*.dev",
         "symfony/finder": "^4.3.2|^5.1",
         "swoole/ide-helper": "^4.3",
         "nette/php-generator": "^3.2",
